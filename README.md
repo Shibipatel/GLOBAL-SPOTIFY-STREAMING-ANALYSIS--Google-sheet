@@ -1,4 +1,3 @@
-Interactive Dashboard: https://docs.google.com/spreadsheets/d/1MyNHWgZT2dSPXi563hBdM98MN_84RtfOwOrnEY2TuBQ/edit?usp=sharing
 # 🎵 Global Spotify Streaming Analysis Dashboard
 
 ## 📁 Project Overview
